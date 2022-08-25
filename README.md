@@ -293,7 +293,7 @@ Jetson Nano
 > --output_blob=output_0 /dev/video0 \## To detect from camera module
 ## Demo
 
-https://youtu.be/X-efjKfAPHM
+https://github.com/f-ate/Drone-vs-Bird/blob/master/final/Drone%20vs%20Bird%20detection.mp4
 
 
 **IMAGES**
