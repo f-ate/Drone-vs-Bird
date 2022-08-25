@@ -302,6 +302,8 @@ Jetson Nano
 
 
 **IMAGES**
+![IMAGES](https://github.com/f-ate/Drone-vs-Bird/blob/main/Screenshot%20from%202022-08-25%2012-28-55.png?raw=true)
+![IMAGES](https://github.com/f-ate/Drone-vs-Bird/blob/main/Screenshot%20from%202022-08-25%2012-27-45.png?raw=true)
 
 Images show the various classes of images with annotations
 
