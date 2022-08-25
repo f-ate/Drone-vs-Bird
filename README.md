@@ -2,7 +2,7 @@
 
 ## Demo
 
-[![Final detection]](https://www.youtube.com/watch?v=X-efjKfAPHM "Final detection")
+[![Final detection](https://i.ytimg.com/vi/X-efjKfAPHM/mydefault.jpg)](https://www.youtube.com/watch?v=X-efjKfAPHM "Final detection")
 
 
 
