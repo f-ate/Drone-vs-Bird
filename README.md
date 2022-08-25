@@ -291,6 +291,10 @@ Jetson Nano
 > imagenet.py --model=models/my_data_50/resnet18.onnx
 > --labels=data/my_data/labels.txt --input_blob=input_0
 > --output_blob=output_0 /dev/video0 \## To detect from camera module
+## Demo
+
+https://youtu.be/X-efjKfAPHM
+
 
 **IMAGES**
 
