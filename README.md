@@ -2,7 +2,7 @@
 
 ## Demo
 
-https://github.com/f-ate/Drone-vs-Bird/blob/master/final/Drone%20vs%20Bird%20detection.mp4
+[![Final detection]](https://www.youtube.com/watch?v=X-efjKfAPHM "Final detection)
 
 
 
