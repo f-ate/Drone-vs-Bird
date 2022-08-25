@@ -1,0 +1,33 @@
+<annotation>
+  <folder>spectacular-blue-indian-roller-flies-through-a-blue-sky-background-picture-id1090860774</folder>
+  <filename>spectacular-blue-indian-roller-flies-through-a-blue-sky-background-picture-id1090860774_mirror_solarize.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>612</width>
+    <height>408</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Bird</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>316.51</xmin>
+      <ymin>99.1</ymin>
+      <xmax>479.46</xmax>
+      <ymax>246.55</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

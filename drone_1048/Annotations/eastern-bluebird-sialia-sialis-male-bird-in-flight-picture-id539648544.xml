@@ -1,0 +1,33 @@
+<annotation>
+  <folder></folder>
+  <filename>eastern-bluebird-sialia-sialis-male-bird-in-flight-picture-id539648544.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>612</width>
+    <height>379</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Bird</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>145.7</xmin>
+      <ymin>36.67</ymin>
+      <xmax>377.45</xmax>
+      <ymax>325.86</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

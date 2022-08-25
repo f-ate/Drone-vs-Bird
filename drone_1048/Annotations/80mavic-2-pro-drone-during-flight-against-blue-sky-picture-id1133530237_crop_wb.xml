@@ -1,0 +1,33 @@
+<annotation>
+  <folder>80mavic-2-pro-drone-during-flight-against-blue-sky-picture-id1133530237</folder>
+  <filename>80mavic-2-pro-drone-during-flight-against-blue-sky-picture-id1133530237_crop_wb.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>572</width>
+    <height>368</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Drone</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>68.96</xmin>
+      <ymin>85.89</ymin>
+      <xmax>540.25</xmax>
+      <ymax>251.22999999999996</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

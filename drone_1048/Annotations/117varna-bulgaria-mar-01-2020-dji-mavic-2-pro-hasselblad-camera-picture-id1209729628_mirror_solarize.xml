@@ -1,0 +1,33 @@
+<annotation>
+  <folder>117varna-bulgaria-mar-01-2020-dji-mavic-2-pro-hasselblad-camera-picture-id1209729628</folder>
+  <filename>117varna-bulgaria-mar-01-2020-dji-mavic-2-pro-hasselblad-camera-picture-id1209729628_mirror_solarize.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>612</width>
+    <height>374</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Drone</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>20.64</xmin>
+      <ymin>132.02</ymin>
+      <xmax>589.66</xmax>
+      <ymax>266.85</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

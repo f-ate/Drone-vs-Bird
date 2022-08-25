@@ -1,0 +1,33 @@
+<annotation>
+  <folder>67flying-drone-isolated-on-white-background-3d-rendered-illustration-illustration-id667043154</folder>
+  <filename>67flying-drone-isolated-on-white-background-3d-rendered-illustration-illustration-id667043154_crop_wb.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>572</width>
+    <height>305</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Drone</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>15.21</xmin>
+      <ymin>16.31</ymin>
+      <xmax>554.34</xmax>
+      <ymax>220.85</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

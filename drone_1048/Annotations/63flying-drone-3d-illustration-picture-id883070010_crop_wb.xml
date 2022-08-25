@@ -1,0 +1,33 @@
+<annotation>
+  <folder>63flying-drone-3d-illustration-picture-id883070010</folder>
+  <filename>63flying-drone-3d-illustration-picture-id883070010_crop_wb.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>572</width>
+    <height>419</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Drone</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>30.27</xmin>
+      <ymin>41.14</ymin>
+      <xmax>549.57</xmax>
+      <ymax>347.48</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

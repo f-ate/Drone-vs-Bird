@@ -1,0 +1,33 @@
+<annotation>
+  <folder>blue-jay-in-flight-off-perch-towards-birdfeeder-in-backyard-picture-id1311847111</folder>
+  <filename>blue-jay-in-flight-off-perch-towards-birdfeeder-in-backyard-picture-id1311847111_180_gray.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>612</width>
+    <height>408</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Bird</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>72.71</xmin>
+      <ymin>28.31</ymin>
+      <xmax>474.85</xmax>
+      <ymax>350.02</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

@@ -1,0 +1,33 @@
+<annotation>
+  <folder>male-northern-cardinal-in-flight-picture-id472200097</folder>
+  <filename>male-northern-cardinal-in-flight-picture-id472200097_crop_wb.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>572</width>
+    <height>304</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Bird</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>109.45</xmin>
+      <ymin>6.4</ymin>
+      <xmax>541.92</xmax>
+      <ymax>302.31</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

@@ -1,0 +1,33 @@
+<annotation>
+  <folder>bluefronted-redstart-the-beautiful-blue-picture-id626132614</folder>
+  <filename>bluefronted-redstart-the-beautiful-blue-picture-id626132614_mirror_solarize.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>612</width>
+    <height>612</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Bird</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>129.47</xmin>
+      <ymin>135.76</ymin>
+      <xmax>583.76</xmax>
+      <ymax>532.87</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

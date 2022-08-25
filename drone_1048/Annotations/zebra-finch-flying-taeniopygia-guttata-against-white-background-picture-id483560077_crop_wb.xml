@@ -1,0 +1,33 @@
+<annotation>
+  <folder>zebra-finch-flying-taeniopygia-guttata-against-white-background-picture-id483560077</folder>
+  <filename>zebra-finch-flying-taeniopygia-guttata-against-white-background-picture-id483560077_crop_wb.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>572</width>
+    <height>493</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Bird</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>56.27</xmin>
+      <ymin>52.73</ymin>
+      <xmax>459.68</xmax>
+      <ymax>465.25</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

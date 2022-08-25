@@ -1,0 +1,33 @@
+<annotation>
+  <folder>29drone-flying-over-construction-site-picture-id1362508171</folder>
+  <filename>29drone-flying-over-construction-site-picture-id1362508171_crop_wb.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>572</width>
+    <height>304</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Drone</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>189.81</xmin>
+      <ymin>34.2</ymin>
+      <xmax>402.75</xmax>
+      <ymax>146.34</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

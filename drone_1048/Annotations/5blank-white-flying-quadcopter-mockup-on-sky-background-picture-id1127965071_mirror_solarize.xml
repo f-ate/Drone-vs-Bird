@@ -1,0 +1,33 @@
+<annotation>
+  <folder>5blank-white-flying-quadcopter-mockup-on-sky-background-picture-id1127965071</folder>
+  <filename>5blank-white-flying-quadcopter-mockup-on-sky-background-picture-id1127965071_mirror_solarize.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>612</width>
+    <height>326</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Drone</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>164.41</xmin>
+      <ymin>94.85</ymin>
+      <xmax>443.48</xmax>
+      <ymax>250.31</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

@@ -1,0 +1,33 @@
+<annotation>
+  <folder>87north-shore-bonsai-pipeline-hawaii-sunset-drone-flying-by-picture-id503354476</folder>
+  <filename>87north-shore-bonsai-pipeline-hawaii-sunset-drone-flying-by-picture-id503354476_crop_wb.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>572</width>
+    <height>334</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Drone</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>323.49</xmin>
+      <ymin>108.35</ymin>
+      <xmax>419.92</xmax>
+      <ymax>161.32</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

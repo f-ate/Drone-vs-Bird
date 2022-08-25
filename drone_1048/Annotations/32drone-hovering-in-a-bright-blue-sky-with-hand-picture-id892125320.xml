@@ -1,0 +1,33 @@
+<annotation>
+  <folder></folder>
+  <filename>32drone-hovering-in-a-bright-blue-sky-with-hand-picture-id892125320.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>612</width>
+    <height>388</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Drone</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>165.54</xmin>
+      <ymin>168.33</ymin>
+      <xmax>496.97</xmax>
+      <ymax>294.21</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

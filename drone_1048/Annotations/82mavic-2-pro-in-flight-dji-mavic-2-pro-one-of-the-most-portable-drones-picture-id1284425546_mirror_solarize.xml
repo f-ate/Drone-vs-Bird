@@ -1,0 +1,33 @@
+<annotation>
+  <folder>82mavic-2-pro-in-flight-dji-mavic-2-pro-one-of-the-most-portable-drones-picture-id1284425546</folder>
+  <filename>82mavic-2-pro-in-flight-dji-mavic-2-pro-one-of-the-most-portable-drones-picture-id1284425546_mirror_solarize.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>612</width>
+    <height>408</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Drone</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>110.55</xmin>
+      <ymin>135.57</ymin>
+      <xmax>538.27</xmax>
+      <ymax>280.39</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

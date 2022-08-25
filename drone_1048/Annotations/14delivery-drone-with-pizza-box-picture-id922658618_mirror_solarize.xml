@@ -1,0 +1,33 @@
+<annotation>
+  <folder>14delivery-drone-with-pizza-box-picture-id922658618</folder>
+  <filename>14delivery-drone-with-pizza-box-picture-id922658618_mirror_solarize.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>612</width>
+    <height>408</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Drone</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>107.9</xmin>
+      <ymin>27.89</ymin>
+      <xmax>502.5</xmax>
+      <ymax>234.82999999999998</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

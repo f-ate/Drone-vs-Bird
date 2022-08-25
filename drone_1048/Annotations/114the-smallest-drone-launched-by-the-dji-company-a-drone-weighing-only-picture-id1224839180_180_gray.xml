@@ -1,0 +1,33 @@
+<annotation>
+  <folder>114the-smallest-drone-launched-by-the-dji-company-a-drone-weighing-only-picture-id1224839180</folder>
+  <filename>114the-smallest-drone-launched-by-the-dji-company-a-drone-weighing-only-picture-id1224839180_180_gray.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>612</width>
+    <height>408</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Drone</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>135.55</xmin>
+      <ymin>127.17</ymin>
+      <xmax>444.27</xmax>
+      <ymax>258.7</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

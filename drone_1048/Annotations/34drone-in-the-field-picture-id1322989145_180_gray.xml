@@ -1,0 +1,33 @@
+<annotation>
+  <folder>34drone-in-the-field-picture-id1322989145</folder>
+  <filename>34drone-in-the-field-picture-id1322989145_180_gray.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>612</width>
+    <height>408</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Drone</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>105.35</xmin>
+      <ymin>145.35</ymin>
+      <xmax>288.4</xmax>
+      <ymax>201.06</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

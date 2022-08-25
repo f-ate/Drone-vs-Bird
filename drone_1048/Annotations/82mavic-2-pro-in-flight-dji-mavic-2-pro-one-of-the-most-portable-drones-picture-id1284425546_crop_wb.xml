@@ -1,0 +1,33 @@
+<annotation>
+  <folder>82mavic-2-pro-in-flight-dji-mavic-2-pro-one-of-the-most-portable-drones-picture-id1284425546</folder>
+  <filename>82mavic-2-pro-in-flight-dji-mavic-2-pro-one-of-the-most-portable-drones-picture-id1284425546_crop_wb.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>572</width>
+    <height>368</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Drone</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>55.08</xmin>
+      <ymin>117.57</ymin>
+      <xmax>488.6</xmax>
+      <ymax>264.25</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

@@ -1,0 +1,33 @@
+<annotation>
+  <folder></folder>
+  <filename>123white-drone-with-lights-quadrocopter-with-photo-camera-picture-id541307864.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>612</width>
+    <height>408</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Drone</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>60.15</xmin>
+      <ymin>45.07</ymin>
+      <xmax>522.18</xmax>
+      <ymax>324.89</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

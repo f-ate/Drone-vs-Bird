@@ -1,0 +1,33 @@
+<annotation>
+  <folder>indian-roller-in-bardia-national-park-nepal-picture-id586712194</folder>
+  <filename>indian-roller-in-bardia-national-park-nepal-picture-id586712194_180_gray.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>612</width>
+    <height>408</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Bird</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>5.69</xmin>
+      <ymin>17.0</ymin>
+      <xmax>302.69</xmax>
+      <ymax>395.26</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

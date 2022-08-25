@@ -1,0 +1,33 @@
+<annotation>
+  <folder>robin-erithacus-rubecula-standing-on-a-branch-with-white-background-picture-id1135506483</folder>
+  <filename>robin-erithacus-rubecula-standing-on-a-branch-with-white-background-picture-id1135506483_180_gray.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>612</width>
+    <height>406</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Bird</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>284.05</xmin>
+      <ymin>74.79</ymin>
+      <xmax>506.22</xmax>
+      <ymax>357.83</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

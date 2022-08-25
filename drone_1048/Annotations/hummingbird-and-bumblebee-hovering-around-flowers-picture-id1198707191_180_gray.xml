@@ -1,0 +1,33 @@
+<annotation>
+  <folder>hummingbird-and-bumblebee-hovering-around-flowers-picture-id1198707191</folder>
+  <filename>hummingbird-and-bumblebee-hovering-around-flowers-picture-id1198707191_180_gray.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>612</width>
+    <height>408</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Bird</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>142.67</xmin>
+      <ymin>132.2</ymin>
+      <xmax>575.38</xmax>
+      <ymax>375.57</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

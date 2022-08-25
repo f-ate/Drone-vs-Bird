@@ -1,0 +1,33 @@
+<annotation>
+  <folder>tiny-hummingbirds-hovering-close-to-a-lavender-flower-picture-id1339191595</folder>
+  <filename>tiny-hummingbirds-hovering-close-to-a-lavender-flower-picture-id1339191595_180_gray.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>612</width>
+    <height>410</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Bird</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>85.85</xmin>
+      <ymin>88.8</ymin>
+      <xmax>336.74</xmax>
+      <ymax>299.69</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

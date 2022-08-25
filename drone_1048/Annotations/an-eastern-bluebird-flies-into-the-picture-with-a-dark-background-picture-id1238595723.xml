@@ -1,0 +1,33 @@
+<annotation>
+  <folder></folder>
+  <filename>an-eastern-bluebird-flies-into-the-picture-with-a-dark-background-picture-id1238595723.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>612</width>
+    <height>407</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Bird</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>162.86</xmin>
+      <ymin>49.2</ymin>
+      <xmax>384.74</xmax>
+      <ymax>326.66</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

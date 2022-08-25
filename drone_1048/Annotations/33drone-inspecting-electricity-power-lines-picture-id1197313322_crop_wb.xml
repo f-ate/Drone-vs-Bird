@@ -1,0 +1,33 @@
+<annotation>
+  <folder>33drone-inspecting-electricity-power-lines-picture-id1197313322</folder>
+  <filename>33drone-inspecting-electricity-power-lines-picture-id1197313322_crop_wb.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>572</width>
+    <height>368</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Drone</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>358.2</xmin>
+      <ymin>17.03</ymin>
+      <xmax>531.24</xmax>
+      <ymax>169.67</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

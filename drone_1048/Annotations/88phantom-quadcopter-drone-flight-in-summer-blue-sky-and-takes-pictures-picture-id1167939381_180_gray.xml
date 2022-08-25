@@ -1,0 +1,33 @@
+<annotation>
+  <folder>88phantom-quadcopter-drone-flight-in-summer-blue-sky-and-takes-pictures-picture-id1167939381</folder>
+  <filename>88phantom-quadcopter-drone-flight-in-summer-blue-sky-and-takes-pictures-picture-id1167939381_180_gray.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>612</width>
+    <height>408</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Drone</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>151.89</xmin>
+      <ymin>153.14</ymin>
+      <xmax>498.73</xmax>
+      <ymax>317.77</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

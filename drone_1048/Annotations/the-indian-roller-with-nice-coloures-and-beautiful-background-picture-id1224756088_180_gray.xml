@@ -1,0 +1,33 @@
+<annotation>
+  <folder>the-indian-roller-with-nice-coloures-and-beautiful-background-picture-id1224756088</folder>
+  <filename>the-indian-roller-with-nice-coloures-and-beautiful-background-picture-id1224756088_180_gray.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>612</width>
+    <height>408</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Bird</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>169.06</xmin>
+      <ymin>46.74</ymin>
+      <xmax>399.03</xmax>
+      <ymax>303.94</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

@@ -1,0 +1,33 @@
+<annotation>
+  <folder></folder>
+  <filename>56drone-with-first-aid-kit-on-blue-sky-emergency-medical-care-concept-picture-id1203770153.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>612</width>
+    <height>437</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Drone</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>134.81</xmin>
+      <ymin>80.97</ymin>
+      <xmax>456.95</xmax>
+      <ymax>181.03</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

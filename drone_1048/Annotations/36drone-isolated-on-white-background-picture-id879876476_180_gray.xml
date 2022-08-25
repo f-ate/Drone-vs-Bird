@@ -1,0 +1,33 @@
+<annotation>
+  <folder>36drone-isolated-on-white-background-picture-id879876476</folder>
+  <filename>36drone-isolated-on-white-background-picture-id879876476_180_gray.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>612</width>
+    <height>344</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Drone</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>112.09</xmin>
+      <ymin>24.16</ymin>
+      <xmax>536.9</xmax>
+      <ymax>311.4</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

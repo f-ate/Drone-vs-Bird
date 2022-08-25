@@ -1,0 +1,33 @@
+<annotation>
+  <folder>99quadrocopter-drone-take-4k-video-to-landscape-with-remote-control-at-picture-id1050437480</folder>
+  <filename>99quadrocopter-drone-take-4k-video-to-landscape-with-remote-control-at-picture-id1050437480_180_gray.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>612</width>
+    <height>466</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Drone</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>166.3</xmin>
+      <ymin>291.17</ymin>
+      <xmax>326.1</xmax>
+      <ymax>401.21</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

@@ -1,0 +1,33 @@
+<annotation>
+  <folder></folder>
+  <filename>38drone-monitoring-barbed-wire-fence-on-state-border-or-restricted-area-picture-id959932976.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>612</width>
+    <height>438</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Drone</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1.42</xmin>
+      <ymin>3.22</ymin>
+      <xmax>314.41</xmax>
+      <ymax>210.53</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

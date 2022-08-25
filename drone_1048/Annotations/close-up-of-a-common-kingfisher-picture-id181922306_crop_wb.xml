@@ -1,0 +1,33 @@
+<annotation>
+  <folder>close-up-of-a-common-kingfisher-picture-id181922306</folder>
+  <filename>close-up-of-a-common-kingfisher-picture-id181922306_crop_wb.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>572</width>
+    <height>329</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Bird</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>53.56</xmin>
+      <ymin>56.49</ymin>
+      <xmax>520.37</xmax>
+      <ymax>312.9</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

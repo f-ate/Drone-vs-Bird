@@ -1,0 +1,33 @@
+<annotation>
+  <folder>39drone-mounted-digital-cinema-camera-picture-id1255415784</folder>
+  <filename>39drone-mounted-digital-cinema-camera-picture-id1255415784_crop_wb.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>572</width>
+    <height>354</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Drone</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>41.87</xmin>
+      <ymin>28.73</ymin>
+      <xmax>530.96</xmax>
+      <ymax>273.82</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

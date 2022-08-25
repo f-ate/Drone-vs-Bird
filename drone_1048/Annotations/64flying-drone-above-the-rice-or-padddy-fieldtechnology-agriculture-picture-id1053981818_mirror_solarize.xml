@@ -1,0 +1,33 @@
+<annotation>
+  <folder>64flying-drone-above-the-rice-or-padddy-fieldtechnology-agriculture-picture-id1053981818</folder>
+  <filename>64flying-drone-above-the-rice-or-padddy-fieldtechnology-agriculture-picture-id1053981818_mirror_solarize.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>612</width>
+    <height>332</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Drone</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>128.01</xmin>
+      <ymin>52.84</ymin>
+      <xmax>228.63</xmax>
+      <ymax>126.44</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

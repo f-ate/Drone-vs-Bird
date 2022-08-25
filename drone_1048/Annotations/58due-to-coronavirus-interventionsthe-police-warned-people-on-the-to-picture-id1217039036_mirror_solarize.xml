@@ -1,0 +1,33 @@
+<annotation>
+  <folder>58due-to-coronavirus-interventionsthe-police-warned-people-on-the-to-picture-id1217039036</folder>
+  <filename>58due-to-coronavirus-interventionsthe-police-warned-people-on-the-to-picture-id1217039036_mirror_solarize.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>612</width>
+    <height>408</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Drone</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>171.57</xmin>
+      <ymin>138.06</ymin>
+      <xmax>466.05</xmax>
+      <ymax>239.85</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

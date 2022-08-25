@@ -1,0 +1,33 @@
+<annotation>
+  <folder>fish-eagle-flying-above-clouds-picture-id497824854</folder>
+  <filename>fish-eagle-flying-above-clouds-picture-id497824854_180_gray.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>612</width>
+    <height>344</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Bird</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>314.92</xmin>
+      <ymin>45.66</ymin>
+      <xmax>512.67</xmax>
+      <ymax>294.21</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

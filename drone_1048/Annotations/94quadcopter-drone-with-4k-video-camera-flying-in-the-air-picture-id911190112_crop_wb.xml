@@ -1,0 +1,33 @@
+<annotation>
+  <folder>94quadcopter-drone-with-4k-video-camera-flying-in-the-air-picture-id911190112</folder>
+  <filename>94quadcopter-drone-with-4k-video-camera-flying-in-the-air-picture-id911190112_crop_wb.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>572</width>
+    <height>368</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Drone</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>50.65</xmin>
+      <ymin>17.4</ymin>
+      <xmax>524.44</xmax>
+      <ymax>306.82</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

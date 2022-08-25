@@ -1,0 +1,33 @@
+<annotation>
+  <folder>81mavic-2-pro-drone-flying-picture-id1305778756</folder>
+  <filename>81mavic-2-pro-drone-flying-picture-id1305778756_crop_wb.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>572</width>
+    <height>368</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Drone</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>45.14</xmin>
+      <ymin>69.87</ymin>
+      <xmax>368.01</xmax>
+      <ymax>165.78</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

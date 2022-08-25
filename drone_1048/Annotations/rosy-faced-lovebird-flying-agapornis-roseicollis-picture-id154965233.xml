@@ -1,0 +1,33 @@
+<annotation>
+  <folder></folder>
+  <filename>rosy-faced-lovebird-flying-agapornis-roseicollis-picture-id154965233.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>612</width>
+    <height>467</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Bird</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>83.75</xmin>
+      <ymin>40.12</ymin>
+      <xmax>555.06</xmax>
+      <ymax>446.23</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

@@ -1,0 +1,33 @@
+<annotation>
+  <folder>19drone-delivering-first-aid-box-or-medicine-to-costumer-hand-during-picture-id1221337143</folder>
+  <filename>19drone-delivering-first-aid-box-or-medicine-to-costumer-hand-during-picture-id1221337143_mirror_solarize.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>612</width>
+    <height>408</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Drone</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>216.39</xmin>
+      <ymin>75.65</ymin>
+      <xmax>463.12</xmax>
+      <ymax>190.42</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

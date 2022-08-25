@@ -1,0 +1,33 @@
+<annotation>
+  <folder>93quad-copter-drone-picture-id504263417</folder>
+  <filename>93quad-copter-drone-picture-id504263417_mirror_solarize.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>612</width>
+    <height>344</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Drone</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>2.28</xmin>
+      <ymin>3.84</ymin>
+      <xmax>604.5</xmax>
+      <ymax>332.9</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

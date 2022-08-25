@@ -1,0 +1,33 @@
+<annotation>
+  <folder>50drone-white-cloudy-dusk-sky-picture-id492683865</folder>
+  <filename>50drone-white-cloudy-dusk-sky-picture-id492683865_180_gray.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>612</width>
+    <height>418</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Drone</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>48.47</xmin>
+      <ymin>124.86</ymin>
+      <xmax>580.2</xmax>
+      <ymax>295.67</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

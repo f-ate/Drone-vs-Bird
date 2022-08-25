@@ -1,0 +1,33 @@
+<annotation>
+  <folder>84mini-2-quadcopter-picture-id1287657743</folder>
+  <filename>84mini-2-quadcopter-picture-id1287657743_mirror_solarize.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>612</width>
+    <height>408</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Drone</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>66.43</xmin>
+      <ymin>104.97</ymin>
+      <xmax>502.92</xmax>
+      <ymax>262.47</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

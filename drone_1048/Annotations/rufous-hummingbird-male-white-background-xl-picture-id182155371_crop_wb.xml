@@ -1,0 +1,33 @@
+<annotation>
+  <folder>rufous-hummingbird-male-white-background-xl-picture-id182155371</folder>
+  <filename>rufous-hummingbird-male-white-background-xl-picture-id182155371_crop_wb.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>572</width>
+    <height>366</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Bird</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>143.01</xmin>
+      <ymin>56.58</ymin>
+      <xmax>508.26</xmax>
+      <ymax>321.87</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

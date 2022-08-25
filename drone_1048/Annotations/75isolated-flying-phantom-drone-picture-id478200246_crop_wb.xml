@@ -1,0 +1,33 @@
+<annotation>
+  <folder>75isolated-flying-phantom-drone-picture-id478200246</folder>
+  <filename>75isolated-flying-phantom-drone-picture-id478200246_crop_wb.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>572</width>
+    <height>370</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Drone</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>23.99</xmin>
+      <ymin>47.55</ymin>
+      <xmax>561.1</xmax>
+      <ymax>328.54</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

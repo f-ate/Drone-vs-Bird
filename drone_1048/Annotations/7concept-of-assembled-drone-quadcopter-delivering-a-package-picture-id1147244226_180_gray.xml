@@ -1,0 +1,33 @@
+<annotation>
+  <folder>7concept-of-assembled-drone-quadcopter-delivering-a-package-picture-id1147244226</folder>
+  <filename>7concept-of-assembled-drone-quadcopter-delivering-a-package-picture-id1147244226_180_gray.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>612</width>
+    <height>408</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Drone</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>144.49</xmin>
+      <ymin>138.2</ymin>
+      <xmax>431.35</xmax>
+      <ymax>278.22</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

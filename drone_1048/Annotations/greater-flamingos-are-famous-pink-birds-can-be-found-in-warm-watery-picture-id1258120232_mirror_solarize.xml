@@ -1,0 +1,33 @@
+<annotation>
+  <folder>greater-flamingos-are-famous-pink-birds-can-be-found-in-warm-watery-picture-id1258120232</folder>
+  <filename>greater-flamingos-are-famous-pink-birds-can-be-found-in-warm-watery-picture-id1258120232_mirror_solarize.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>612</width>
+    <height>392</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Bird</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>335.13</xmin>
+      <ymin>65.88</ymin>
+      <xmax>560.91</xmax>
+      <ymax>317.42</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

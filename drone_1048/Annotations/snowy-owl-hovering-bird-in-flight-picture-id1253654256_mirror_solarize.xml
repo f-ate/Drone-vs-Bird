@@ -1,0 +1,33 @@
+<annotation>
+  <folder>snowy-owl-hovering-bird-in-flight-picture-id1253654256</folder>
+  <filename>snowy-owl-hovering-bird-in-flight-picture-id1253654256_mirror_solarize.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>612</width>
+    <height>408</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Bird</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>54.7</xmin>
+      <ymin>8.62</ymin>
+      <xmax>480.3</xmax>
+      <ymax>383.53</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

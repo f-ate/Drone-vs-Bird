@@ -1,0 +1,33 @@
+<annotation>
+  <folder>28drone-flying-over-an-onions-field-at-sunset-picture-id489635872</folder>
+  <filename>28drone-flying-over-an-onions-field-at-sunset-picture-id489635872_180_gray.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>612</width>
+    <height>408</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Drone</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>35.43</xmin>
+      <ymin>218.91</ymin>
+      <xmax>260.8</xmax>
+      <ymax>303.94</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

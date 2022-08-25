@@ -1,0 +1,33 @@
+<annotation>
+  <folder>watercolor-realistic-illustration-of-flying-hummingbird-vector-id1221251894</folder>
+  <filename>watercolor-realistic-illustration-of-flying-hummingbird-vector-id1221251894_crop_wb.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>572</width>
+    <height>572</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Bird</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>18.32</xmin>
+      <ymin>1.88</ymin>
+      <xmax>553.32</xmax>
+      <ymax>572.0</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

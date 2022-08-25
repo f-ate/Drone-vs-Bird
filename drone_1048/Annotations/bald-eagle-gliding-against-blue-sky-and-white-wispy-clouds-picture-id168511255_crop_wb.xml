@@ -1,0 +1,33 @@
+<annotation>
+  <folder>bald-eagle-gliding-against-blue-sky-and-white-wispy-clouds-picture-id168511255</folder>
+  <filename>bald-eagle-gliding-against-blue-sky-and-white-wispy-clouds-picture-id168511255_crop_wb.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>572</width>
+    <height>377</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Bird</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>267.28</xmin>
+      <ymin>31.56</ymin>
+      <xmax>532.03</xmax>
+      <ymax>287.41</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

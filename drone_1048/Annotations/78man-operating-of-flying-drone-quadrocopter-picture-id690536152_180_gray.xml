@@ -1,0 +1,33 @@
+<annotation>
+  <folder>78man-operating-of-flying-drone-quadrocopter-picture-id690536152</folder>
+  <filename>78man-operating-of-flying-drone-quadrocopter-picture-id690536152_180_gray.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>612</width>
+    <height>408</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Drone</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>327.06</xmin>
+      <ymin>237.57</ymin>
+      <xmax>431.46</xmax>
+      <ymax>332.35</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

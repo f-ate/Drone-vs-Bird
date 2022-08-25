@@ -1,0 +1,33 @@
+<annotation>
+  <folder>tropical-crane-over-blue-sky-picture-id517162416</folder>
+  <filename>tropical-crane-over-blue-sky-picture-id517162416_crop_wb.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>572</width>
+    <height>315</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Bird</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>319.84</xmin>
+      <ymin>33.84</ymin>
+      <xmax>533.52</xmax>
+      <ymax>258.48</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

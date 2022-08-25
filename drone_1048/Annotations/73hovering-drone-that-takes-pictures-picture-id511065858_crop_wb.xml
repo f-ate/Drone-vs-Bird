@@ -1,0 +1,33 @@
+<annotation>
+  <folder>73hovering-drone-that-takes-pictures-picture-id511065858</folder>
+  <filename>73hovering-drone-that-takes-pictures-picture-id511065858_crop_wb.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>572</width>
+    <height>266</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Drone</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>123.33</xmin>
+      <ymin>21.42</ymin>
+      <xmax>569.31</xmax>
+      <ymax>228.89</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

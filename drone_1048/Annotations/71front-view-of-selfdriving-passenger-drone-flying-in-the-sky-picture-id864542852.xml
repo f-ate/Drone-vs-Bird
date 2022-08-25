@@ -1,0 +1,33 @@
+<annotation>
+  <folder></folder>
+  <filename>71front-view-of-selfdriving-passenger-drone-flying-in-the-sky-picture-id864542852.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>612</width>
+    <height>496</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Drone</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>85.08</xmin>
+      <ymin>59.34</ymin>
+      <xmax>567.62</xmax>
+      <ymax>448.89</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

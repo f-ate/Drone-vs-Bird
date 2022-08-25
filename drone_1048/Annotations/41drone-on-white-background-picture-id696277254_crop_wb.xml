@@ -1,0 +1,33 @@
+<annotation>
+  <folder>41drone-on-white-background-picture-id696277254</folder>
+  <filename>41drone-on-white-background-picture-id696277254_crop_wb.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>572</width>
+    <height>317</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Drone</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>22.88</xmin>
+      <ymin>32.38</ymin>
+      <xmax>551.78</xmax>
+      <ymax>310.71</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

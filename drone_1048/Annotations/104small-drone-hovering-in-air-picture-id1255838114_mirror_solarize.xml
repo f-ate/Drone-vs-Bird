@@ -1,0 +1,33 @@
+<annotation>
+  <folder>104small-drone-hovering-in-air-picture-id1255838114</folder>
+  <filename>104small-drone-hovering-in-air-picture-id1255838114_mirror_solarize.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>612</width>
+    <height>408</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Drone</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>99.9</xmin>
+      <ymin>152.05</ymin>
+      <xmax>531.36</xmax>
+      <ymax>313.74</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

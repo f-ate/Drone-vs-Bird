@@ -1,0 +1,33 @@
+<annotation>
+  <folder>robin-hovering-mid-flight-picture-id534086693</folder>
+  <filename>robin-hovering-mid-flight-picture-id534086693_180_gray.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>612</width>
+    <height>339</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Bird</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>69.49</xmin>
+      <ymin>119.52</ymin>
+      <xmax>547.06</xmax>
+      <ymax>292.25</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

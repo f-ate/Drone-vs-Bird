@@ -1,0 +1,33 @@
+<annotation>
+  <folder>117varna-bulgaria-mar-01-2020-dji-mavic-2-pro-hasselblad-camera-picture-id1209729628</folder>
+  <filename>117varna-bulgaria-mar-01-2020-dji-mavic-2-pro-hasselblad-camera-picture-id1209729628_crop_wb.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>572</width>
+    <height>334</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Drone</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>3.16</xmin>
+      <ymin>113.83</ymin>
+      <xmax>566.76</xmax>
+      <ymax>250.8</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

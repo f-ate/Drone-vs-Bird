@@ -1,0 +1,33 @@
+<annotation>
+  <folder>78man-operating-of-flying-drone-quadrocopter-picture-id690536152</folder>
+  <filename>78man-operating-of-flying-drone-quadrocopter-picture-id690536152_mirror_solarize.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>612</width>
+    <height>408</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Drone</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>316.47</xmin>
+      <ymin>74.46</ymin>
+      <xmax>432.42</xmax>
+      <ymax>172.61</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>
