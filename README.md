@@ -240,6 +240,7 @@ Jetson Nano
 - Hence CVAT which is a computer vision annotation tool was used along
   with XnConvert which is an image augmentation tool.
 ![CVAT](https://github.com/f-ate/Drone-vs-Bird/blob/main/Screenshot%20from%202022-08-25%2012-28-06.png)
+![CVAT](https://github.com/f-ate/Drone-vs-Bird/blob/main/Screenshot%20from%202022-08-31%2013-30-40.png)
 - First i downloaded the images required for the dataset from
   istockphoto.com then augmented the images on XnConvert software all in
   all i downloaded close to 250 images of birds and drones and then
